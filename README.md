@@ -13,7 +13,7 @@ Follow this instructions to install the project:
 2. `$ cd blade-templating-laravel8`
 3. `$ composer install`
 4. `$ php artisan serve`
-5. Open `https://localhost:8000` with browser.
+5. Open `http://localhost:8000` with browser.
 
 ## License
 
